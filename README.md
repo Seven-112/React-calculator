@@ -29,7 +29,7 @@ Additional description about the project and its features.
 In order to run locally this project type the following commands over the terminal in Linux or Mac or the Windows cmd console:
 
 ```s
-$ git clone https://github.com/guillainbisimwa/React-calculator.git
+$ git clone https://github.com/myshine112/React-calculator.git
 $ cd React-calculator
 $ npm install
 $ npm start
@@ -46,25 +46,3 @@ To run the integration Tests locally using [Jest](https://jestjs.io/), just type
 $ npm test
 
 ```
-
-## Author
-
-👤 **Guillain Bisimwa**
-
-- Github : [@guillainbisimwa](https://github.com/guillainbisimwa)
-- Twitter : [@gullain_bisimwa](https://twitter.com/gullain_bisimwa)
-- Linkedin : [guillain-bisimwa](https://www.linkedin.com/in/guillain-bisimwa-8a8b7a7b/)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/guillainbisimwa/React-calculator/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
